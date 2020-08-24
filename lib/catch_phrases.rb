@@ -1,7 +1,8 @@
 $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+$phrase = 'it's-a me, Mario!'
 
 def mario
-  puts phrase
+  puts $phrase
 end
 
 def toadstool
